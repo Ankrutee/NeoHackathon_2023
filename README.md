@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1uNl8QjRPZbqmUpUatfjrfTsCDRqOjrLU/view?usp=shari
 verse.sol - VERSE token contract on goerli testnet provided by VERSE team.<br>
 mintVerse.sol - Contains some added functionalities on top of verse.sol (0xA3A8F2B4DcCB6c9a9Ff60A205aD8A142B31a5c88)<br>
 Truflation.sol - Fetches inflation rate(int) from chainlink oracles. (0x25Cb70c92A1FA078E4A9b918c6Ea51376889a15a)<br>
-dVest.sol - Uses mintVerse.sol and Truflation.sol and contains the dapp logic(0xE1A66553e4834caE35eBbFd4cd70Cf7D84f53432).
+dVest.sol - Uses mintVerse.sol and Truflation.sol and contains the dapp logic(0xE1A66553e4834caE35eBbFd4cd70Cf7D84f53432). (Deployed on NEO EVM Testnet)
 
 
 ## Challenges we ran into
