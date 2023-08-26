@@ -2,7 +2,7 @@
 Project Made for Neo APAC Hackathon 2023. 
 
 ## Try it out
-https://neo-hackathon-2023.vercel.app/
+https://neo-hackathon-2023.vercel.app/<br>
 https://dvest-n50-marvel.stackos.io/
 
 ## Inspiration
